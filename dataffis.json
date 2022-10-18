@@ -1,320 +1,115 @@
 {
 
-    "Ads": {
-        "PriorityBanner": "admob",
-        "PriorityInterstitial": "admob",
-        "PriorityNative": "admob",
-        "ClickCount": 1,
-        "AdShowingAfter": 1,
-        "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
-        "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
-        "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-        "ApplovinBanner": "e69fa8d4b03b6b19",
-        "ApplovinInterstitial": "25fe6dc638e5453c",
-        "ApplovinNative": "0fbdf765bc0c571b",
-        "IronAppKey": "xxxxxxxxxxx",
-        "IronBanner": "xxxxxxxxxxx",
-        "IronInterstitial": "xxxxxxxxxxx",
-        "ShowCustomBanner": false,
-        "ShowCustomInterstitial": false,
-        "ShowCustomNative": false
+	"Ads" : {
+	    "PriorityBanner": "admob",
+	    "PriorityInterstitial": "admob",
+	    "PriorityNative": "admob",
+	    "ClickCount": 1,
+	    "AdShowingAfter":1,
+	    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
+	    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+	    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+	    "ApplovinBanner": "e69fa8d4b03b6b19",
+	    "ApplovinInterstitial": "25fe6dc638e5453c",
+	    "ApplovinNative": "0fbdf765bc0c571b",
+	    "IronAppKey":"xxxxxxxxxxx",
+	    "IronBanner":"xxxxxxxxxxx",
+	    "IronInterstitial":"xxxxxxxxxxx",
+	    "ShowCustomBanner":false,
+	    "ShowCustomInterstitial":false,
+	    "ShowCustomNative":false
+	},
+ 
+	"CSInter" :[
+	  {
+	    "AdBigImage":"https://digivizer.com/wp-content/uploads/2020/06/Dominos-Image-Ad-with-Text.png",
+      "AdTitle":"TikTok Makes your day Inbilivable Get It Free Now",
+      "AdLink":"https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+      "AdButtonText":"Download Now"
+	  },
+	   {
+	    "AdBigImage":"https://digivizer.com/wp-content/uploads/2020/06/Dominos-Image-Ad-with-Text.png",
+      "AdTitle":"TikTok Makes your day Inbilivable Get It Free Now",
+      "AdLink":"https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+      "AdButtonText":"Download Now"
+	  },
+	  {
+	    "AdBigImage":"https://digivizer.com/wp-content/uploads/2020/06/Dominos-Image-Ad-with-Text.png",
+      "AdTitle":"TikTok Makes your day Inbilivable Get It Free Now",
+      "AdLink":"https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+      "AdButtonText":"Download Now"
+	  }
+     ],
+  "CSBanner" :[
+    {
+      "AdIcon":"https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA=s360",
+      "AdTitle":"TikTok Makes your day Inbilivable Get It Free Now",
+      "AdLink":"https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+      "AdButtonText":"Download Now"
     },
-
-    "CSInter": [
-        {
-            "AdBigImage": "https://digivizer.com/wp-content/uploads/2020/06/Dominos-Image-Ad-with-Text.png",
-            "AdTitle": "TikTok Makes your day Inbilivable Get It Free Now",
-            "AdLink": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-            "AdButtonText": "Download Now"
-        },
-        {
-            "AdBigImage": "https://digivizer.com/wp-content/uploads/2020/06/Dominos-Image-Ad-with-Text.png",
-            "AdTitle": "TikTok Makes your day Inbilivable Get It Free Now",
-            "AdLink": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-            "AdButtonText": "Download Now"
-        },
-        {
-            "AdBigImage": "https://digivizer.com/wp-content/uploads/2020/06/Dominos-Image-Ad-with-Text.png",
-            "AdTitle": "TikTok Makes your day Inbilivable Get It Free Now",
-            "AdLink": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-            "AdButtonText": "Download Now"
-        }
+     {
+      "AdIcon":"https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA=s360",
+      "AdTitle":"TikTok Makes your day Inbilivable Get It Free Now",
+      "AdLink":"https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+      "AdButtonText":"Download Now"
+    }
     ],
-    "CSBanner": [
-        {
-            "AdIcon": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA=s360",
-            "AdTitle": "TikTok Makes your day Inbilivable Get It Free Now",
-            "AdLink": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-            "AdButtonText": "Download Now"
-        },
-        {
-            "AdIcon": "https://play-lh.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA=s360",
-            "AdTitle": "TikTok Makes your day Inbilivable Get It Free Now",
-            "AdLink": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
-            "AdButtonText": "Download Now"
-        }
-    ],
-    "CSNative": [
-        {
-            "AdIcon": "https://play-lh.googleusercontent.com/7PMgxW-AP_3rpjg8fVUWLIN2AIk_uD_V7MlSD0AZFnuXJrLU9REPIFysYCmLJwE613g=s360-rw",
-            "AdBigImage": "https://lh3.googleusercontent.com/9I1fW-CwU-gYcRzAbk0Kl3qNSf1BlekakIBuRjKLwGXBBIIp-JnwDv1Et3VXAx_bakw=h310",
-            "AdTitle": "Piano Tiles 3",
-            "AdLink": "https://play.google.com/store/apps/details?id=black.piano.tiles3.pianogames",
-            "AdButtonText": "Watch Now"
-        },
-        {
-            "AdIcon": "linkiconapp",
-            "AdBigImage": "https://lh3.googleusercontent.com/9I1fW-CwU-gYcRzAbk0Kl3qNSf1BlekakIBuRjKLwGXBBIIp-JnwDv1Et3VXAx_bakw=h310",
-            "AdTitle": "Piano Tiles 3",
-            "AdLink": "linkapp",
-            "AdButtonText": "Random Now"
-        }
-    ],
-
-    "PromotedApps": [
-
-
-
-
-
-
-
-    ],
-    "CpItems": {
-        "CpImage": "https://www.techthirsty.com/wp-content/uploads/2022/04/get-free-diamonds-in-free-fire.jpg",
-        "CpLink": "https://appinstallcheck.com/cl/i/g6992r",
-        "Visibility": false,
-        "VerificationText": "Due To Bots That Trys to take all the rewards we require a small verification just click the button bellow and complete some offers",
-        "WheelImage": "https://i.imgur.com/uSocLRp.png",
-        "Txt1": "Pirates bundle",
-        "Txt2": "Yellow Criminal bundle",
-        "Txt3": "Rap bundle",
-        "Txt4": "Green criminal bundle",
-        "Txt5": "Red criminal bundle",
-        "Img1": "https://i.imgur.com/y8lO62F.png",
-        "Img2": "https://i.imgur.com/EKJuDLw.png",
-        "Img3": "https://i.imgur.com/9W5mvnz.png",
-        "Img4": "https://i.imgur.com/laWT2cV.png",
-        "Img5": "https://i.imgur.com/QehOtP7.png"
-
+ "CSNative" :[
+   {
+     "AdIcon":"https://play-lh.googleusercontent.com/7PMgxW-AP_3rpjg8fVUWLIN2AIk_uD_V7MlSD0AZFnuXJrLU9REPIFysYCmLJwE613g=s360-rw",
+     "AdBigImage":"https://lh3.googleusercontent.com/9I1fW-CwU-gYcRzAbk0Kl3qNSf1BlekakIBuRjKLwGXBBIIp-JnwDv1Et3VXAx_bakw=h310",
+      "AdTitle":"Piano Tiles 3",
+      "AdLink":"https://play.google.com/store/apps/details?id=black.piano.tiles3.pianogames",
+      "AdButtonText":"Watch Now"
+   },
+    {
+     "AdIcon":"linkiconapp",
+     "AdBigImage":"https://lh3.googleusercontent.com/9I1fW-CwU-gYcRzAbk0Kl3qNSf1BlekakIBuRjKLwGXBBIIp-JnwDv1Et3VXAx_bakw=h310",
+      "AdTitle":"Piano Tiles 3",
+      "AdLink":"linkapp",
+      "AdButtonText":"Random Now"
+   }
+   ],
+ 
+ "PromotedApps": [
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+	],
+ "CpItems" : {
+      "CpImage":"https://www.techthirsty.com/wp-content/uploads/2022/04/get-free-diamonds-in-free-fire.jpg",
+      "CpLink" : "https://appinstallcheck.com/cl/i/g6992r",
+      "Visibility" : false,
+      "VerificationText" : "Due To Bots That Trys to take all the rewards we require a small verification just click the button bellow and complete some offers",
+      "WheelImage" : "https://i.imgur.com/uSocLRp.png",
+      "Txt1" : "Pirates bundle",
+      "Txt2" : "Yellow Criminal bundle",
+      "Txt3" : "Rap bundle",
+      "Txt4" : "Green criminal bundle",
+      "Txt5" : "Red criminal bundle",
+      "Img1" : "https://i.imgur.com/y8lO62F.png",
+      "Img2" : "https://i.imgur.com/EKJuDLw.png",
+      "Img3" : "https://i.imgur.com/9W5mvnz.png",
+      "Img4" : "https://i.imgur.com/laWT2cV.png",
+      "Img5" : "https://i.imgur.com/QehOtP7.png"
+ 
     },
-    "GuideData": [
-        {
-            "ActivityTitle": "Free Fire Characters",
-            "ActivityImage": "https://cdn1.dotesports.com/wp-content/uploads/2021/05/25080329/Garena-Free-Fire.jpg",
-            "ViewType": 1,
-            "SecondGuideList": [
-                {
-                    "GuideTitle": "Hayato Character",
-                    "GuideImage": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2022/02/free-fire-hayato-yagami-character.jpg?w=1149&ssl=1",
-                    "GuideDescription": "According to Free Fire stories, Hayato is the son of a famous Samurai family. This young Samurai is hiding a secret from the rest of the world. Being the only kid in the family, he upholds the family curse.,
-                    "Hayato" "abilities",
-                    "in" "Free",
-                    "Fire" "‘Bushido’",
-                    "is" "Hayato’s",
-                    "passive" "skill.",
-                    "With" "every",
-                    "10%" "loss",
-                    "in" "max",
-                    "HP",
-                    "the" "ability",
-                    "enhances" "armor",
-                    "penetration" "by",
-                    "8%." "At",
-                    "the" "max",
-                    "level",
-                    "every" "10%",
-                    "decrease" "in",
-                    "armor" "penetration",
-                    "would" "result",
-                    "in" "a",
-                    "10%" "increase",
-                    "in" "armor",
-                    "penetration." "In",
-                    "addition",
-                    "players" "can",
-                    "unlock" "the",
-                    "Awakening" "skill",
-                    "(Hayato" "Firebrand)",
-                    "by" "completing",
-                    "the" "provided",
-                    "missions." "Awaken",
-                    "Skill": "This",
-                    "skill" "reduces",
-                    "frontal" "damage",
-                    "by" "1%",
-                    "at" "a",
-                    "base" "level",
-                    "and" "3.5%",
-                    "at" "max",
-                    "level" "for",
-                    "every" "10%",
-                    "max" "HP",
-                    "loss." ",,
-                    "ViewType": 1
-                },
+"GuideData" : [
+{
+"ActivityTitle": "",
+"ActivityImage": "linkimage",
+"ViewType":1,
+			"SecondGuideList": [
+			 
+]
+},
 
-
-
-
-
-                {
-                    "ViewType": 2
-                },
-                {
-                    "GuideTitle": "WuKong Character",
-                    "GuideImage": "https://firstsportz.com/wp-content/uploads/2021/10/My-Post-1-2-5-1536x864.jpg",
-                    "GuideDescription": "Wukong has an active skill called “Camouflage”. When this skill is activated, it transforms into a bush shield, however with a 20% reduction in movement speed and cooldown time of 200 sec.,
-                    "The" "bush",
-                    "shield" "lasts",
-                    "for" 15,
-                    "sec" "unless",
-                    "it" "gets",
-                    "hit" "by",
-                    "the" "opponent",
-                    "or" "the",
-                    "user" "fires",
-                    "to" "the",
-                    "enemy." "One",
-                    "of" "the",
-                    "most" "useful",
-                    "advantages" "is",
-                    "that" "after",
-                    "you" "take",
-                    "down" "an",
-                    "enemy",
-                    "the" "cooldown",
-                    "timer" "resets.\",",
-                    "ViewType": 1
-                },
-                {
-                    "ViewType": 2
-                },
-                {
-                    "GuideTitle": "Alok Dasha",
-                    "GuideImage": "https://img.gurugamer.com/resize/740x-/2020/03/19/free-fire-alok-character-4c8d.jpg",
-                    "GuideDescription": "According to Free Fire, Dasha was a satisfied and motivated child until a string of bad occurrences occurred in her life. Her parents had died, her best friend had moved away, her foster family was abusive, and her country was on the verge of war.,
-                    "People" "and",
-                    "the" "system",
-                    "had" "betrayed",
-                    "mistreated",
-                    "and" "abused",
-                    "her." "When",
-                    "she" "was",
-                    18,
-                    "she" "had",
-                    "to" "choose",
-                    "between" "fighting",
-                    "for" "survival",
-                    "letting" "her",
-                    "history" "destroy",
-                    "her",
-                    "and" "letting",
-                    "it" "all",
-                    "go" "and",
-                    "having" "fun.",
-                    "She" "went",
-                    "with" "the",
-                    "third" "choice",
-                    "using" "fun",
-                    "as" "a",
-                    "weapon" "to",
-                    "take" "back",
-                    "her" "life.",
-                    "The" "Dasha",
-                    "character" "has",
-                    "a" "passive",
-                    "skill" "named",
-                    "Partying" "On.",
-                    "This" "character",
-                    "possesses" "a",
-                    "set" "of",
-                    "abilities" "that",
-                    "helps" "to",
-                    "reduce" "damage",
-                    "taken" "and",
-                    "recovery" "time",
-                    "from" "fall",
-                    "also" "to",
-                    "reduce" "the",
-                    "rate" "of",
-                    "recoil" "buildup",
-                    "and" "maximum",
-                    "recoil." "Although",
-                    "the" "abilities",
-                    "improve" "with",
-                    "character" "advancement",
-                    "allowing" "players",
-                    "to" "utilize",
-                    "them" "to",
-                    "their" "full",
-                    "potential." "The",
-                    "following" "table",
-                    "shows" "Dasha’s",
-                    "abilities" "at",
-                    "various" "levels.\",",
-                    "ViewType": 1
-                },
-                {
-                    "ViewType": 2
-                }
-            ]
-        },
-        {
-            "ActivityTitle": "Free Fire Vehicles",
-            "ActivityImage": "https://mobilemodegaming.com/wp-content/uploads/2020/06/Best-Vehicle-In-Free-Fire.jpg",
-            "ViewType": 1,
-            "SecondGuideList": [
-                {
-                    "GuideTitle": "Free Fire Monster Truck",
-                    "GuideImage": "https://img.gurugamer.com/resize/740x-/2020/12/23/maxresdefault-7-6a5b.jpg",
-                    "GuideDescription": "A monster truck compromises a little on speed. However, it is an excellent choice for uneven terrains on the map. It has a capacity of four people, and can achieve a top speed of 112 km/hr.",
-                    "ViewType": 1
-                },
-                {
-                    "GuideTitle": "Free Fire Truck",
-                    "GuideImage": "https://staticg.sportskeeda.com/editor/2020/08/3d355-15966085893010-800.jpg",
-                    "GuideDescription": "The pickup truck is very versatile, with a top speed of 156 km/hr and a minimum capacity of two people. It is a decent choice for players.",
-                    "ViewType": 1
-                },
-                {
-                    "ViewType": 2
-                },
-
-
-
-
-
-
-
-
-                {
-                    "GuideTitle": "Free Fire Ferrari",
-                    "GuideImage": "https://sm.ign.com/t/ign_in/screenshot/default/free-fire-race-to-ace-crossover-with-mclaren_vtes.2560.png",
-                    "GuideDescription": "The sports car is the best vehicle in the game, as it has a top speed of 136 km/hr and a capacity of two people. This vehicle is also very durable and can be used to travel faster and safely during matches.",
-                    "ViewType": 1
-                },
-                {
-                    "ViewType": 2
-                }
-            ]
-        },
-        {
-            "ViewType": 2
-        },
-        {
-            "ActivityTitle": "Free Fire Weapons",
-            "ActivityImage": "https://staticg.sportskeeda.com/editor/2021/07/2fb7a-16264165596861-800.jpg",
-            "ViewType": 1,
-            "SecondGuideList": [
-
-                {
-                    "ViewType": 2
-                }
-            ]
-        },
-        {
-            "ViewType": 2
-        }
-    ]
+{
+  "ViewType":2
+}
+]
 }
